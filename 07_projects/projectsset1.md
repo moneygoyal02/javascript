@@ -243,3 +243,5 @@ document.querySelector('#stop').addEventListener('click', stopChangingColor);
 
 
 ```
+
+// https://stackblitz.com/edit/dom-project-chaiaurcode-4hzqm1?file=11-textEditor%2Findex.html
